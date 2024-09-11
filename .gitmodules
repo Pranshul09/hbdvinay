@@ -1,0 +1,4 @@
+[submodule "birthday-app"]
+    path = birthday-app
+    url = https://github.com/Pranshul09/hbdvinay.git
+
